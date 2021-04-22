@@ -1,0 +1,639 @@
+/* screen - portfolio */
+
+.portfolio {
+  background-color: var(--bizarre);
+  height: 2011px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1560px;
+}
+.portfolio .about-me-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 67px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .about-me-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1194px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1946px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .connect-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1313px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 60px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .connect-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1396px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1946px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .ellipse-1-C61RwL {
+  background-color: var(--clam-shell);
+  border-radius: 27.617807388305664px/25.99323081970215px;
+  height: 52px;
+  left: 95px;
+  position: absolute;
+  top: 1863px;
+  width: 55px;
+}
+.portfolio .ellipse-2-C61RwL {
+  background-color: var(--clam-shell);
+  border-radius: 27.617807388305664px/25.99323081970215px;
+  height: 52px;
+  left: 182px;
+  position: absolute;
+  top: 1863px;
+  width: 55px;
+}
+.portfolio .ellipse-3-C61RwL {
+  background-color: var(--clam-shell);
+  border-radius: 27.617807388305664px/25.99323081970215px;
+  height: 52px;
+  left: 182px;
+  position: absolute;
+  top: 1938px;
+  width: 55px;
+}
+.portfolio .ellipse-4-C61RwL {
+  background-color: var(--clam-shell);
+  border-radius: 27.617807388305664px/25.99323081970215px;
+  height: 52px;
+  left: 92px;
+  position: absolute;
+  top: 1938px;
+  width: 55px;
+}
+.portfolio .highlights-C61RwL {
+  -webkit-text-stroke: 1px var(--tawny-port);
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-size: 25px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 713px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px rgba(251,99,118,1.0);;
+  top: 803px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .home-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 162px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 58px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .home-VMr6Om {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1218px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1877px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .information-block-C61RwL {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 710px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 223px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .logotransparentbackground-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 184px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: 470px;
+}
+.portfolio .masculine-spotlight-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 669px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(251,99,118,1.0);;
+  top: 1372px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .natural-light-n-uty-natural-you-C61RwL {
+  background-color: transparent;
+  color: var(--tawny-port);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 365px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 1917px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .noun-blog2389123-C61RwL {
+  background-color: transparent;
+  height: 41px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 1945px;
+  width: 49px;
+}
+.portfolio .noun-thumbtack41414-C61RwL {
+  background-color: transparent;
+  height: 43px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 1941px;
+  width: 50px;
+}
+.portfolio .nouninstagram3350460-C61RwL {
+  background-color: transparent;
+  height: 32px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 1874px;
+  width: 36px;
+}
+.portfolio .nounthumbs-up1218615-C61RwL {
+  background-color: transparent;
+  height: 35px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 1870px;
+  width: 42px;
+}
+.portfolio .path-3-C61RwL {
+  background-color: transparent;
+  height: 169px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1843px;
+  width: 1560px;
+}
+.portfolio .path-5-C61RwL {
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1844px;
+  width: 1560px;
+}
+.portfolio .path-7-C61RwL {
+  background-color: transparent;
+  height: 158px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -4px;
+  width: 1560px;
+}
+.portfolio .pexels-ana-carolina-1850049-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 156px;
+}
+.portfolio .pexels-ana-carolina-1863437-C61RwL {
+  background-color: transparent;
+  height: 454px;
+  left: 579px;
+  object-fit: cover;
+  position: absolute;
+  top: 304px;
+  width: 408px;
+}
+.portfolio .pexels-aryane-vilarim-2869067-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 618px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 155px;
+}
+.portfolio .pexels-cottonbro-5531896-C61RwL {
+  background-color: transparent;
+  height: 290px;
+  left: 1227px;
+  object-fit: cover;
+  position: absolute;
+  top: 1459px;
+  width: 260px;
+}
+.portfolio .pexels-diego-portrait-1796628-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 959px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 155px;
+}
+.portfolio .pexels-efigie-l-marcos-6277241-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 1298px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 156px;
+}
+.portfolio .pexels-helena-lopes-3947511-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 278px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 156px;
+}
+.portfolio .pexels-horacio-rojas-2866077-C61RwL {
+  background-color: transparent;
+  height: 290px;
+  left: 650px;
+  object-fit: cover;
+  position: absolute;
+  top: 1459px;
+  width: 261px;
+}
+.portfolio .pexels-italo-melo-1998865-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 788px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 157px;
+}
+.portfolio .pexels-jack-winbow-1498836-C61RwL {
+  background-color: transparent;
+  height: 205px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 1090px;
+  width: 156px;
+}
+.portfolio .pexels-jack-winbow-1498836-VMr6Om {
+  background-color: transparent;
+  height: 392px;
+  left: 1216px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 298px;
+}
+.portfolio .pexels-jill-burrow-6773225-C61RwL {
+  background-color: transparent;
+  height: 205px;
+  left: 959px;
+  object-fit: cover;
+  position: absolute;
+  top: 1090px;
+  width: 155px;
+}
+.portfolio .pexels-juliana-stein-2083751-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 1128px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 155px;
+}
+.portfolio .pexels-kc-robinson-7356392-C61RwL {
+  background-color: transparent;
+  height: 204px;
+  left: 448px;
+  object-fit: cover;
+  position: absolute;
+  top: 871px;
+  width: 156px;
+}
+.portfolio .pexels-kehn-hermano-4350645-C61RwL {
+  background-color: transparent;
+  height: 205px;
+  left: 448px;
+  object-fit: cover;
+  position: absolute;
+  top: 1090px;
+  width: 156px;
+}
+.portfolio .pexels-madeline-ssinder-6300215-C61RwL {
+  background-color: transparent;
+  height: 205px;
+  left: 1128px;
+  object-fit: cover;
+  position: absolute;
+  top: 1090px;
+  width: 155px;
+}
+.portfolio .pexels-maksim-g-harenok-4348555-C61RwL {
+  background-color: transparent;
+  height: 392px;
+  left: 889px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 299px;
+}
+.portfolio .pexels-maksim-g-harenok-4348555-VMr6Om {
+  background-color: transparent;
+  height: 290px;
+  left: 74px;
+  object-fit: cover;
+  position: absolute;
+  top: 1459px;
+  width: 260px;
+}
+.portfolio .pexels-moh-mckenzie-3597042-C61RwL {
+  background-color: transparent;
+  height: 290px;
+  left: 938px;
+  object-fit: cover;
+  position: absolute;
+  top: 1459px;
+  width: 261px;
+}
+.portfolio .pexels-pamela-araujo-2762161-C61RwL {
+  background-color: transparent;
+  height: 205px;
+  left: 1298px;
+  object-fit: cover;
+  position: absolute;
+  top: 1090px;
+  width: 156px;
+}
+.portfolio .pexels-paul-ker-y-genil-3108289-C61RwL {
+  background-color: transparent;
+  height: 205px;
+  left: 278px;
+  object-fit: cover;
+  position: absolute;
+  top: 1090px;
+  width: 156px;
+}
+.portfolio .pexels-roman-odintsov-6399488-C61RwL {
+  background-color: transparent;
+  height: 392px;
+  left: 374px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 298px;
+}
+.portfolio .pexels-roman-odintsov-6399488-VMr6Om {
+  background-color: transparent;
+  height: 205px;
+  left: 618px;
+  object-fit: cover;
+  position: absolute;
+  top: 1090px;
+  width: 155px;
+}
+.portfolio .pexels-susn-dybvik-3278844-C61RwL {
+  background-color: transparent;
+  height: 205px;
+  left: 788px;
+  object-fit: cover;
+  position: absolute;
+  top: 1090px;
+  width: 157px;
+}
+.portfolio .pexels-tatiana-yrikova-3934029-C61RwL {
+  background-color: transparent;
+  height: 290px;
+  left: 361px;
+  object-fit: cover;
+  position: absolute;
+  top: 1459px;
+  width: 261px;
+}
+.portfolio .pexels-vivian-2906462-C61RwL {
+  background-color: transparent;
+  height: 392px;
+  left: 47px;
+  object-fit: cover;
+  position: absolute;
+  top: 331px;
+  width: 298px;
+}
+.portfolio .portfolio-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 327px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 58px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .portfolio-VMr6Om {
+  background-color: transparent;
+  height: auto;
+  left: 1388px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 1877px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .portfolio-roses-garden-C61RwL {
+  background-color: transparent;
+  color: var(--black);
+  font-family: "Proxima Nova", Helvetica;
+  font-size: 36px;
+  height: auto;
+  left: 683px;
+  letter-spacing: 0.00px;
+  line-height: 26px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px rgba(251,99,118,1.0);;
+  top: 200px;
+  white-space: nowrap;
+  width: auto;
+}
+.portfolio .rectangle-12-C61RwL {
+  background-color: var(--clam-shell);
+  height: 83px;
+  left: 325px;
+  position: absolute;
+  top: 1885px;
+  width: 777px;
+}
+.portfolio .rectangle-13-C61RwL {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 48px;
+  left: 1168px;
+  position: absolute;
+  top: 1868px;
+  width: 163px;
+}
+.portfolio .rectangle-14-C61RwL {
+  background-color: var(--clam-shell);
+  height: 48px;
+  left: 1366px;
+  position: absolute;
+  top: 1868px;
+  width: 164px;
+}
+.portfolio .rectangle-15-C61RwL {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 48px;
+  left: 1366px;
+  position: absolute;
+  top: 1937px;
+  width: 164px;
+}
+.portfolio .rectangle-16-C61RwL {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 48px;
+  left: 1168px;
+  position: absolute;
+  top: 1937px;
+  width: 163px;
+}
+.portfolio .rectangle-33-C61RwL {
+  background-color: var(--clam-shell);
+  border-radius: 57px;
+  height: 92px;
+  left: 604px;
+  position: absolute;
+  top: 180px;
+  width: 355px;
+}
+.portfolio .rectangle-34-C61RwL {
+  background-color: var(--clam-shell);
+  border-radius: 48px;
+  height: 77px;
+  left: 604px;
+  position: absolute;
+  top: 1348px;
+  width: 355px;
+}
+.portfolio .rectangle-35-C61RwL {
+  background-color: var(--bizarre);
+  border-radius: 97px;
+  cursor: pointer;
+  height: 139px;
+  left: 498px;
+  position: absolute;
+  top: 6px;
+  width: 559px;
+}
+.portfolio .rectangle-40-C61RwL {
+  background-color: var(--clam-shell);
+  border-radius: 48px;
+  height: 77px;
+  left: 669px;
+  position: absolute;
+  top: 778px;
+  width: 206px;
+}
+.portfolio .span0-isJ7Y3 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.portfolio .span1-isJ7Y3 {
+  color: rgba(0,0,0,1.0);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 400;
+}

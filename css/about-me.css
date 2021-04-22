@@ -1,0 +1,417 @@
+/* screen - about-me */
+
+.about-me {
+  align-items: flex-start;
+  background-color: var(--bizarre);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 871px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1560px;
+}
+.about-me .about-me-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 1099px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 81px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .about-me-RH0WJ5 {
+  background-color: transparent;
+  height: auto;
+  left: 1190px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 638px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .connect-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1315px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 75px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .connect-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1392px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 638px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .ellipse-1-RH0WJ5 {
+  background-color: var(--clam-shell);
+  border-radius: 27.5px/26px;
+  height: 52px;
+  left: 95px;
+  position: absolute;
+  top: 555px;
+  width: 55px;
+}
+.about-me .ellipse-2-RH0WJ5 {
+  background-color: var(--clam-shell);
+  border-radius: 27.5px/26px;
+  height: 52px;
+  left: 182px;
+  position: absolute;
+  top: 555px;
+  width: 55px;
+}
+.about-me .ellipse-3-RH0WJ5 {
+  background-color: var(--clam-shell);
+  border-radius: 27.5px/26px;
+  height: 52px;
+  left: 182px;
+  position: absolute;
+  top: 631px;
+  width: 55px;
+}
+.about-me .ellipse-4-RH0WJ5 {
+  background-color: var(--clam-shell);
+  border-radius: 27.5px/26px;
+  height: 52px;
+  left: 92px;
+  position: absolute;
+  top: 631px;
+  width: 55px;
+}
+.about-me .flex-col-RH0WJ5 {
+  align-items: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: auto;
+  justify-content: flex-start;
+  left: 102px;
+  min-height: 498px;
+  position: absolute;
+  top: 0px;
+  width: 301px;
+}
+.about-me .flex-row-dmjJwM {
+  align-items: flex-end;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 65px;
+  justify-content: flex-start;
+  margin-left: 1.0px;
+  margin-top: 17px;
+  min-width: 182px;
+  position: relative;
+  width: auto;
+}
+.about-me .hi-im-rose-sbRkC1 {
+  background-color: transparent;
+  color: var(--dove-gray);
+  flex-shrink: 1;
+  font-family: "Proxima Nova", Helvetica;
+  font-size: 22px;
+  height: auto;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  margin-bottom: 1px;
+  margin-left: -136px;
+  min-height: 54px;
+  min-width: 88px;
+  position: relative;
+  text-align: center;
+  text-shadow: 0px 3px 6px rgba(251,99,118,1.0);;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .home-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 157px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 74px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .home-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1213px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 567px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .logotransparentbackground-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 184px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 471px;
+}
+.about-me .my-name-is-rose-m-based-in-auck-RH0WJ5 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 490px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 56px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .natural-light-n-uty-natural-you-RH0WJ5 {
+  background-color: transparent;
+  color: var(--tawny-port);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-size: 17px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 365px;
+  letter-spacing: 0.00px;
+  line-height: 17px;
+  position: absolute;
+  text-align: left;
+  top: 609px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .noun-blog2389123-RH0WJ5 {
+  background-color: transparent;
+  height: 41px;
+  left: 189px;
+  object-fit: cover;
+  position: absolute;
+  top: 638px;
+  width: 48px;
+}
+.about-me .noun-thumbtack41414-RH0WJ5 {
+  background-color: transparent;
+  height: 43px;
+  left: 95px;
+  object-fit: cover;
+  position: absolute;
+  top: 634px;
+  width: 50px;
+}
+.about-me .nouninstagram3350460-RH0WJ5 {
+  background-color: transparent;
+  height: 32px;
+  left: 192px;
+  object-fit: cover;
+  position: absolute;
+  top: 566px;
+  width: 36px;
+}
+.about-me .nounthumbs-up1218615-RH0WJ5 {
+  background-color: transparent;
+  height: 35px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 562px;
+  width: 42px;
+}
+.about-me .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 184px;
+  margin-top: -14px;
+  position: relative;
+  width: 1560px;
+}
+.about-me .overlap-group1-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 704px;
+  margin-top: 1px;
+  position: relative;
+  width: 1560px;
+}
+.about-me .path-4-RH0WJ5 {
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 536px;
+  width: 1560px;
+}
+.about-me .path-5-RH0WJ5 {
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 536px;
+  width: 1560px;
+}
+.about-me .path-8-4eduM0 {
+  background-color: transparent;
+  height: 157px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 1560px;
+}
+.about-me .pexels-juliana-stein-2083751-dmjJwM {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 416px;
+  object-fit: cover;
+  position: relative;
+  width: 301px;
+}
+.about-me .portfolio-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 327px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 74px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .portfolio-RH0WJ5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1384px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 567px;
+  white-space: nowrap;
+  width: auto;
+}
+.about-me .rectangle-12-RH0WJ5 {
+  background-color: var(--clam-shell);
+  height: 83px;
+  left: 325px;
+  position: absolute;
+  top: 577px;
+  width: 777px;
+}
+.about-me .rectangle-33-sbRkC1 {
+  background-color: var(--clam-shell);
+  border-radius: 57px;
+  flex-shrink: 1;
+  height: 65px;
+  position: relative;
+  width: 182px;
+}
+.about-me .rectangle-35-4eduM0 {
+  background-color: var(--bizarre);
+  border-radius: 97px;
+  cursor: pointer;
+  height: 138px;
+  left: 498px;
+  position: absolute;
+  top: 22px;
+  width: 559px;
+}
+.about-me .rectangle-36-RH0WJ5 {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 47px;
+  left: 1164px;
+  position: absolute;
+  top: 559px;
+  width: 163px;
+}
+.about-me .rectangle-37-RH0WJ5 {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 47px;
+  left: 1362px;
+  position: absolute;
+  top: 559px;
+  width: 163px;
+}
+.about-me .rectangle-38-RH0WJ5 {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 48px;
+  left: 1362px;
+  position: absolute;
+  top: 629px;
+  width: 163px;
+}
+.about-me .rectangle-39-RH0WJ5 {
+  background-color: var(--clam-shell);
+  height: 48px;
+  left: 1164px;
+  position: absolute;
+  top: 629px;
+  width: 163px;
+}
+.about-me .rectangle-9-RH0WJ5 {
+  background-color: var(--white);
+  height: 520px;
+  left: 462px;
+  position: absolute;
+  top: 0px;
+  width: 1029px;
+}
+.about-me .span0-P1h4Gh {
+  color: rgba(0,0,0,1.0);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}
+.about-me .span1-P1h4Gh {
+  color: rgba(112,112,112,1.0);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-style: normal;
+  font-weight: 400;
+}

@@ -1,0 +1,451 @@
+/* screen - connect */
+
+.connect {
+  align-items: flex-start;
+  background-color: var(--bizarre);
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: column;
+  height: 875px;
+  justify-content: flex-start;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1560px;
+}
+.connect .about-me-4a9k2Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1195px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 103px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .about-me-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1102px;
+  letter-spacing: 0.00px;
+  line-height: 23px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 83px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .connect-4a9k2Y {
+  background-color: transparent;
+  height: auto;
+  left: 1398px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 103px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .connect-4eduM0 {
+  background-color: transparent;
+  height: auto;
+  left: 1318px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 75px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .ellipse-1-4a9k2Y {
+  background-color: var(--clam-shell);
+  border-radius: 27.5px/26px;
+  height: 52px;
+  left: 95px;
+  position: absolute;
+  top: 19px;
+  width: 55px;
+}
+.connect .ellipse-2-4a9k2Y {
+  background-color: var(--clam-shell);
+  border-radius: 27.5px/26px;
+  height: 52px;
+  left: 182px;
+  position: absolute;
+  top: 19px;
+  width: 55px;
+}
+.connect .ellipse-3-4a9k2Y {
+  background-color: var(--clam-shell);
+  border-radius: 27.5px/26px;
+  height: 52px;
+  left: 182px;
+  position: absolute;
+  top: 94px;
+  width: 55px;
+}
+.connect .ellipse-4-4a9k2Y {
+  background-color: var(--clam-shell);
+  border-radius: 27.5px/26px;
+  height: 52px;
+  left: 92px;
+  position: absolute;
+  top: 94px;
+  width: 55px;
+}
+.connect .flex-row-C61RwL {
+  align-items: flex-start;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 117px;
+  justify-content: flex-start;
+  margin-left: 102px;
+  margin-top: 1px;
+  min-width: 844px;
+  position: relative;
+  width: auto;
+}
+.connect .flex-row-VMr6Om {
+  align-items: flex-end;
+  align-self: center;
+  background-color: transparent;
+  box-sizing: border-box;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 282px;
+  justify-content: flex-start;
+  margin-right: 34.0px;
+  margin-top: 19px;
+  min-width: 1336px;
+  position: relative;
+  width: auto;
+}
+.connect .home-4a9k2Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1219px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .home-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 157px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 74px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .logotransparentbackground-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 184px;
+  left: 545px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 471px;
+}
+.connect .natural-light-n-uty-natural-you-4a9k2Y {
+  background-color: transparent;
+  color: var(--tawny-port);
+  font-family: 'SegoeUI-Regular', Helvetica;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 392px;
+  letter-spacing: 0.00px;
+  line-height: 16px;
+  position: absolute;
+  text-align: left;
+  top: 72px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .noun-blog2389123-4a9k2Y {
+  background-color: transparent;
+  height: 41px;
+  left: 188px;
+  object-fit: cover;
+  position: absolute;
+  top: 100px;
+  width: 48px;
+}
+.connect .noun-thumbtack41414-4a9k2Y {
+  background-color: transparent;
+  height: 43px;
+  left: 94px;
+  object-fit: cover;
+  position: absolute;
+  top: 96px;
+  width: 51px;
+}
+.connect .nouninstagram3350460-4a9k2Y {
+  background-color: transparent;
+  height: 32px;
+  left: 191px;
+  object-fit: cover;
+  position: absolute;
+  top: 29px;
+  width: 37px;
+}
+.connect .nounthumbs-up1218615-4a9k2Y {
+  background-color: transparent;
+  height: 36px;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 25px;
+  width: 41px;
+}
+.connect .overlap-group-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 184px;
+  margin-top: -13px;
+  position: relative;
+  width: 1560px;
+}
+.connect .overlap-group1-dXBp89 {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 69px;
+  margin-left: 215px;
+  position: relative;
+  width: 331px;
+}
+.connect .overlap-group2-C61RwL {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 168px;
+  margin-top: 41px;
+  position: relative;
+  width: 1560px;
+}
+.connect .overlap-group3-dXBp89 {
+  align-self: flex-end;
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 57px;
+  position: relative;
+  width: 298px;
+}
+.connect .overlap-group4-BdpSxK {
+  background-color: transparent;
+  flex-shrink: 1;
+  height: 61px;
+  margin-left: 29px;
+  position: relative;
+  width: 142px;
+}
+.connect .path-5-4a9k2Y {
+  background-color: transparent;
+  height: 168px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1560px;
+}
+.connect .path-9-4eduM0 {
+  background-color: transparent;
+  height: 158px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 12px;
+  width: 1560px;
+}
+.connect .portfolio-4a9k2Y {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1390px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: left;
+  top: 34px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .portfolio-4eduM0 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 327px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  text-shadow: 0px 3px 6px rgba(239,229,220,1.0);;
+  top: 74px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .rectangle-10-C61RwL {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 52px;
+  margin-left: 95px;
+  margin-top: 24px;
+  position: relative;
+  width: 450px;
+}
+.connect .rectangle-12-4a9k2Y {
+  background-color: var(--clam-shell);
+  height: 83px;
+  left: 325px;
+  position: absolute;
+  top: 41px;
+  width: 777px;
+}
+.connect .rectangle-13-4a9k2Y {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 48px;
+  left: 1169px;
+  position: absolute;
+  top: 25px;
+  width: 164px;
+}
+.connect .rectangle-14-4a9k2Y {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 48px;
+  left: 1367px;
+  position: absolute;
+  top: 25px;
+  width: 164px;
+}
+.connect .rectangle-15-4a9k2Y {
+  background-color: var(--clam-shell);
+  height: 48px;
+  left: 1367px;
+  position: absolute;
+  top: 94px;
+  width: 164px;
+}
+.connect .rectangle-16-4a9k2Y {
+  background-color: var(--clam-shell);
+  cursor: pointer;
+  height: 48px;
+  left: 1169px;
+  position: absolute;
+  top: 94px;
+  width: 164px;
+}
+.connect .rectangle-35-4eduM0 {
+  background-color: var(--bizarre);
+  border-radius: 97px;
+  cursor: pointer;
+  height: 138px;
+  left: 498px;
+  position: absolute;
+  top: 22px;
+  width: 559px;
+}
+.connect .rectangle-41-5WaCop {
+  background-color: var(--white);
+  border-radius: 38px;
+  height: 61px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 142px;
+}
+.connect .rectangle-42-iofYqm {
+  background-color: var(--clam-shell);
+  height: 56px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 298px;
+}
+.connect .rectangle-8-iQaBfH {
+  background-color: var(--clam-shell);
+  border-radius: 43px;
+  height: 69px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 331px;
+}
+.connect .rectangle-9-BdpSxK {
+  background-color: var(--white);
+  flex-shrink: 1;
+  height: 282px;
+  position: relative;
+  width: 1165px;
+}
+.connect .send-5WaCop {
+  background-color: transparent;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  top: 16px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .send-me-a-email-get-back-to-you-iofYqm {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-size: 21px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 21px;
+  position: absolute;
+  text-align: center;
+  top: 7px;
+  white-space: nowrap;
+  width: auto;
+}
+.connect .want-to-book-in-have-an-inquiry-iQaBfH {
+  background-color: transparent;
+  color: var(--black);
+  font-family: 'ProximaNova-Regular', Helvetica;
+  font-size: 22px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 42px;
+  letter-spacing: 0.00px;
+  line-height: 22px;
+  position: absolute;
+  text-align: center;
+  text-shadow: 0px 3px 6px rgba(251,99,118,1.0);;
+  top: 11px;
+  white-space: nowrap;
+  width: auto;
+}
