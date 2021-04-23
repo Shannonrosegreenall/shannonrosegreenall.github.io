@@ -20,6 +20,10 @@ header a {
   font-size: 21px;
 }
 
+header a:hover {
+  color: black;
+}
+
 header .logo {
   /* height: 18vh; */
   height: 135px;
@@ -35,6 +39,19 @@ header .logo {
 
 main {
   margin-top: 30px;
+}
+
+main .title {
+  position: absolute;
+  left: calc(50vw - 325px);
+  top: 74vh;
+
+
+  text-shadow: 0px 3px 6px rgb(239 229 220);
+  color: #fb6376;
+  font-size: 50px;
+
+  -webkit-text-stroke: 2px black;
 }
 
 main .photo-block {
@@ -53,14 +70,112 @@ main .photo-block img.large-img {
   width: 560px;
 }
 
+main .about-block {
+  margin-bottom: 30px;
+
+}
+
+main .about-block img {
+  margin-bottom: 30px;
+}
+
+main .about-block span {
+  padding: 14px 16px 14px 16px;
+  background-color: #d0b8ac;
+  border-radius: 30px;
+  /* border: black; */
+  /* border-style: solid; */
+  /* border-width: 2px; */
+
+  text-shadow: 0px 3px 6px #fb6376;;
+
+  /* color: #fb6376; */
+  /* -webkit-text-stroke: 2px black; */
+
+
+  font-size: 26px;
+}
+
+main .about-block p {
+  /* width: 45px;
+  height: 45px; */
+  max-width: 55vw;
+
+  padding: 14px 16px 14px 16px;
+  /* background-color: #d0b8ac; */
+  border-radius: 22.5px;
+  border: black;
+  border-style: solid;
+  border-width: 2px;
+}
+
+main .connect-block {
+  text-align: center;
+}
+
+main .connect-block span {
+  margin-bottom: 30px;
+
+  display: block;
+
+  padding: 18px 32px 18px 32px;
+  background-color: #d0b8ac;
+  border-radius: 70px;
+  /* border: black; */
+  /* border-style: solid; */
+  /* border-width: 2px; */
+
+  font-size: 26px;
+  text-shadow: 0px 3px 6px #fb6376;
+
+  /* color: #fb6376; */
+  /* -webkit-text-stroke: 2px black; */
+}
+
+main .connect-block input[type=text] {
+  margin-bottom: 30px;
+  /* width:
+  height:  */
+}
+
+main .connect-block input[type=submit] {
+  position: relative;
+  top: 350px;
+
+  width: 150px;
+  height: 50px;
+  border-radius: 25px;
+  background-color: #fff;
+
+  font-style: bold;
+  font-size: 20px;
+
+}
+
 footer {
   position: absolute;
   bottom: 0;
-  
-  height: 150px;
+
+  height: 100px;
   width: 100vw;
-  background-color: #fb6376;
+  background-color: #fcb1a6;
   overflow: hidden;
+}
+
+footer a {
+  text-align: center;
+
+  width: 45px;
+  height: 45px;
+  background-color: #d0b8ac;
+
+  border-radius: 22.5px;
+  border: black;
+  border-style: solid;
+  border-width: 2px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: contain;
 }
 
 #page-container {
@@ -74,5 +189,5 @@ footer {
   flex-direction: column;
   justify-content: flex-start;
 
-  padding-bottom: 155px;
+  padding-bottom: 105px;
 }

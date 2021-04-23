@@ -1,0 +1,343 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=1560, maximum-scale=1.0" />
+    <link rel="shortcut icon" type="image/png" href="https://animaproject.s3.amazonaws.com/home/favicon.png" />
+    <meta name="og:type" content="website" />
+    <meta name="twitter:card" content="photo" />
+    <title>Rosethorn Photography - About Me</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+
+    <link rel="stylesheet" type="text/css" href="css/style0.css" />
+    <style>
+      @import url("https://fonts.googleapis.com/css?family=Roboto:700");
+
+      @font-face {
+        font-family: "SegoeUI-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5b1e8d8e336c4b0009507857/segoeui.ttf") format("truetype");
+      }
+
+      @font-face {
+        font-family: "ProximaNova-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c5874afb72544000ad1576b/ProximaNova-Reg.ttf")
+          format("truetype");
+      }
+
+      .component-wrapper a,
+      .screen a {
+        text-decoration: none;
+        display: contents;
+      }
+
+      .full-width-a {
+        width: 100%;
+      }
+
+      .full-height-a {
+        height: 100%;
+      }
+
+      .screen textarea:focus,
+      .screen input:focus {
+        outline: none;
+      }
+
+      .screen *,
+      .component-wrapper * {
+        box-sizing: border-box;
+        -webkit-font-smoothing: antialiased;
+      }
+
+      .screen div {
+        -webkit-text-size-adjust: none;
+      }
+
+      .container-center-vertical,
+      .container-center-horizontal {
+        pointer-events: none;
+        display: flex;
+        flex-direction: row;
+        padding: 0;
+        margin: 0;
+      }
+
+      .container-center-vertical {
+        align-items: center;
+        height: 100%;
+      }
+
+      .container-center-horizontal {
+        justify-content: center;
+        width: 100%;
+      }
+
+      .container-center-vertical > *,
+      .container-center-horizontal > * {
+        pointer-events: auto;
+        flex-shrink: 0;
+      }
+
+      .component-wrapper,
+      .screen {
+        overflow-wrap: break-word;
+        word-wrap: break-word;
+        word-break: break-all;
+        word-break: break-word;
+      }
+
+      .auto-animated div {
+        opacity: 0;
+        position: absolute;
+        --z-index: -1;
+      }
+
+      .auto-animated .container-center-vertical,
+      .auto-animated .container-center-horizontal {
+        opacity: 1;
+      }
+
+      .overlay {
+        position: absolute;
+        opacity: 0;
+        display: none;
+        top: 0;
+        width: 100%;
+        height: 100%;
+        position: fixed;
+      }
+
+      .animate-appear {
+        opacity: 0;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 normal forwards;
+      }
+
+      .animate-disappear {
+        opacity: 1;
+        display: block;
+        animation: reveal 0.3s ease-in-out 1 reverse forwards;
+      }
+
+      .animate-nodelay {
+        animation-delay: 0s;
+      }
+
+      @keyframes reveal {
+        from {
+          opacity: 0;
+        }
+        to {
+          opacity: 1;
+        }
+      }
+      .align-self-flex-start {
+        align-self: flex-start;
+      }
+      .align-self-flex-end {
+        align-self: flex-end;
+      }
+      .align-self-flex-center {
+        align-self: center;
+      }
+      .valign-text-middle {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .valign-text-bottom {
+        display: flex;
+        flex-direction: column;
+        justify-content: flex-end;
+      }
+      input:focus {
+        outline: none;
+      }
+      .component-wrapper,
+      .component-wrapper * {
+        pointer-events: none;
+      }
+
+      .component-wrapper a *,
+      .component-wrapper a,
+      .component-wrapper input,
+      .component-wrapper video,
+      .component-wrapper iframe,
+      .listeners-active,
+      .listeners-active * {
+        pointer-events: auto;
+      }
+
+      .hidden,
+      .hidden * {
+        visibility: hidden;
+        pointer-events: none;
+      }
+
+      .smart-layers-pointers,
+      .smart-layers-pointers * {
+        pointer-events: auto;
+        visibility: visible;
+      }
+
+      .component-wrapper.not-ready,
+      .component-wrapper.not-ready * {
+        visibility: hidden !important;
+      }
+
+      .listeners-active-click,
+      .listeners-active-click * {
+        cursor: pointer;
+      }
+
+      @import url("https://fonts.googleapis.com/css?family=Roboto:700");
+
+      @font-face {
+        font-family: "SegoeUI-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5b1e8d8e336c4b0009507857/segoeui.ttf") format("truetype");
+      }
+
+      @font-face {
+        font-family: "ProximaNova-Regular";
+        font-style: normal;
+        font-weight: 400;
+        src: url("https://anima-uploads.s3.amazonaws.com/5c5874afb72544000ad1576b/ProximaNova-Reg.ttf")
+          format("truetype");
+      }
+      * {
+        box-sizing: border-box;
+      }
+      .border-1px-dove-gray {
+        border: 1px solid var(--dove-gray);
+      }
+      .roboto-bold-black-20px {
+        color: var(--black);
+        font-family: var(--font-family-roboto);
+        font-size: var(--font-size-xs);
+        font-style: normal;
+        font-weight: 700;
+      }
+      .roboto-bold-black-22px {
+        color: var(--black);
+        font-family: var(--font-family-roboto);
+        font-size: var(--font-size-m);
+        font-style: normal;
+        font-weight: 700;
+      }
+      .roboto-bold-tawny-port-21px {
+        color: var(--tawny-port);
+        font-family: var(--font-family-roboto);
+        font-size: var(--font-size-s);
+        font-style: normal;
+        font-weight: 700;
+      }
+      .roboto-bold-tawny-port-23px {
+        color: var(--tawny-port);
+        font-family: var(--font-family-roboto);
+        font-size: var(--font-size-l);
+        font-style: normal;
+        font-weight: 700;
+      }
+      .roboto-bold-tawny-port-24px {
+        color: var(--tawny-port);
+        font-family: var(--font-family-roboto);
+        font-size: var(--font-size-xl);
+        font-style: normal;
+        font-weight: 700;
+      }
+      :root {
+        --bizarre: rgba(239, 229, 220, 1);
+        --black: rgba(0, 0, 0, 1);
+        --clam-shell: rgba(208, 184, 172, 1);
+        --dove-gray: rgba(112, 112, 112, 1);
+        --font-family-proxima_nova: "Proxima Nova", Helvetica;
+        --font-family-proximanova-regular: "ProximaNova-Regular", Helvetica;
+        --font-family-roboto: "Roboto", Helvetica;
+        --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+        --font-size-l: 23px;
+        --font-size-m: 22px;
+        --font-size-s: 21px;
+        --font-size-xl: 24px;
+        --font-size-xs: 20px;
+        --font-size-xxl: 25px;
+        --font-size-xxs: 17px;
+        --font-size-xxxl: 26px;
+        --font-size-xxxs: 16px;
+        --font-size-xxxxl: 36px;
+        --font-size-xxxxxl: 44px;
+        --tawny-port: rgba(93, 42, 66, 1);
+        --white: rgba(255, 255, 255, 1);
+      }
+    </style>
+    <meta name="author" content="AnimaApp.com - Design to code, Automated." />
+  </head>
+  <body style="margin: 0; background: rgba(239, 229, 220, 1)">
+    <input type="hidden" id="anPageName" name="page" value="about-me" />
+    <div class="container-center-horizontal">
+      <div class="about-me screen">
+        <div class="overlap-group-C61RwL">
+          <img class="path-8-4eduM0" src="img/path-8@1x.png" />
+          <a href="index.html"> <div class="rectangle-35-4eduM0"></div></a>
+          <a href="index.html"
+            ><img class="logotransparentbackground-4eduM0" src="img/logo-transparent-background-2@1x.png"
+          /></a>
+          <a href="portfolio.html"><div class="portfolio-4eduM0 roboto-bold-tawny-port-24px">PORTFOLIO</div></a>
+          <div class="about-me-4eduM0 roboto-bold-tawny-port-23px">ABOUT ME<br /></div>
+          <a href="index.html"><div class="home-4eduM0 roboto-bold-tawny-port-24px">HOME</div></a>
+          <a href="connect.html"><div class="connect-4eduM0 roboto-bold-tawny-port-24px">CONNECT</div></a>
+        </div>
+        <div class="overlap-group1-C61RwL">
+          <div class="flex-col-RH0WJ5">
+            <img class="pexels-juliana-stein-2083751-dmjJwM" src="img/pexels-juliana-stein-2083751-1@1x.png" />
+            <div class="flex-row-dmjJwM">
+              <div class="rectangle-33-sbRkC1"></div>
+              <div class="hi-im-rose-sbRkC1">
+                <span class="span0-P1h4Gh">HI! <br />I&#39;m Rose</span><span class="span1-P1h4Gh">&nbsp;</span>
+              </div>
+            </div>
+          </div>
+          <div class="rectangle-9-RH0WJ5 border-1px-dove-gray"></div>
+          <img class="path-4-RH0WJ5" src="img/path-4@1x.png" />
+          <img class="path-5-RH0WJ5" src="img/path-4@1x.png" />
+          <div class="rectangle-12-RH0WJ5 border-1px-dove-gray"></div>
+          <div class="ellipse-1-RH0WJ5 border-1px-dove-gray"></div>
+          <div class="ellipse-2-RH0WJ5 border-1px-dove-gray"></div>
+          <div class="ellipse-3-RH0WJ5 border-1px-dove-gray"></div>
+          <div class="ellipse-4-RH0WJ5 border-1px-dove-gray"></div>
+          <a href="index.html"> <div class="rectangle-36-RH0WJ5 border-1px-dove-gray"></div></a>
+          <div class="rectangle-39-RH0WJ5 border-1px-dove-gray"></div>
+          <div class="about-me-RH0WJ5 roboto-bold-black-22px">ABOUT ME</div>
+          <a href="index.html"><div class="home-RH0WJ5 roboto-bold-black-22px">HOME</div></a>
+          <img class="nounthumbs-up1218615-RH0WJ5" src="img/noun-thumbs-up-1218615-1@1x.png" />
+          <img class="nouninstagram3350460-RH0WJ5" src="img/noun-instagram-3350460-1@1x.png" />
+          <img class="noun-thumbtack41414-RH0WJ5" src="img/noun-thumbtack-41414-1@1x.png" />
+          <img class="noun-blog2389123-RH0WJ5" src="img/noun-blog-2389123-2@1x.png" />
+          <div class="natural-light-n-uty-natural-you-RH0WJ5">
+            NATURAL LIGHT | NATURAL BODY | NATURAL POSING | NATURAL BEAUTY | NATURAL YOU
+          </div>
+          <div class="my-name-is-rose-m-based-in-auck-RH0WJ5">
+            My name is Rose Baker and this is my &#34;garden&#34; of work.<br /><br />Ever since I was little I loved
+            taking photos.&nbsp;&nbsp;Throughout school I have been lucky enough to <br />pursue photography as a
+            career.&nbsp;&nbsp;My work now looks a lot better than it did at age 8!<br /><br />I am based in Auckland
+            City, New Zealand and specialise in natural light portrait photography<br />with minimal post
+            processing.&nbsp;&nbsp;<br /><br />I am always on the hunt for more models, so if you are interested head
+            over to<br />my CONNECT page and give me a buzz.<br /><br />I have a flat rate of $250 a session.
+            <br />After the shoot I require 3 business days for minor edits.<br />Once that is complete you will have
+            access to your pick of 20 images from a select 50.<br /><br />Hope to hear from you soon!<br />Keep on
+            growing,<br />Rose.
+          </div>
+          <a href="portfolio.html"> <div class="rectangle-37-RH0WJ5 border-1px-dove-gray"></div></a>
+          <a href="connect.html"> <div class="rectangle-38-RH0WJ5 border-1px-dove-gray"></div></a>
+          <a href="portfolio.html"><div class="portfolio-RH0WJ5 roboto-bold-black-22px">PORTFOLIO</div></a>
+          <a href="connect.html"><div class="connect-RH0WJ5 roboto-bold-black-22px">CONNECT</div></a>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
